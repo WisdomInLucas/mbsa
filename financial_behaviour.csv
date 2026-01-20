@@ -1,0 +1,548 @@
+income,expense,debt,saving,shoppingFreq,investment,investmentType,investmentRisk,payment,savingRate,shoppingCat,insurance,recordExpense,priority,classification,investmentAmount
+10659166,7867005,1597569,10467451,13,TRUE,Crypto,5,E-Wallet,17,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,969279
+12985249,9981297,2481108,5221606,12,TRUE,Crypto,5,E-Wallet,19,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2153115
+13306781,10222290,629376,10843310,13,TRUE,Saham,4,QRIS,13,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1383945
+11956587,7374447,2351400,5107308,10,TRUE,Crypto,5,E-Wallet,17,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2170066
+6035477,4243197,713889,4978030,13,TRUE,Crypto,5,QRIS,11,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1165000
+13747281,9914371,2114715,4004726,9,TRUE,Crypto,5,QRIS,13,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,602477
+9699404,6219379,1214884,7678540,14,TRUE,Crypto,4,E-Wallet,10,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1260409
+12941475,9511043,2399616,11851718,5,TRUE,Crypto,4,QRIS,9,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2363634
+11781820,7835739,2058264,4513910,5,TRUE,Crypto,5,QRIS,6,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1523664
+6419142,4892495,820433,4417089,7,TRUE,Crypto,4,E-Wallet,13,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,857908
+5658732,4208882,891540,3160130,5,TRUE,Crypto,5,E-Wallet,17,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1104476
+7167336,5028034,328236,3928170,13,TRUE,Crypto,4,E-Wallet,5,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,923173
+9789122,6694443,1387545,4012943,13,TRUE,Crypto,4,E-Wallet,13,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1487779
+9266235,5622656,1731781,5030572,11,TRUE,Crypto,5,QRIS,11,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1274914
+14516411,10001045,1197929,10158033,12,TRUE,Crypto,5,E-Wallet,6,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,747357
+12843989,8954230,1552301,5266382,7,TRUE,P2P Lending,5,E-Wallet,6,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2361556
+14887771,10257395,791621,6909987,11,TRUE,Crypto,5,E-Wallet,10,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1109696
+10915408,8043831,1310469,5261632,12,TRUE,Crypto,4,QRIS,8,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,570790
+7570536,5507368,780897,1866678,11,TRUE,Crypto,4,E-Wallet,5,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,832547
+6162744,4392572,419225,5650421,9,TRUE,Crypto,5,E-Wallet,8,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1199221
+12041263,9191579,1238190,11770354,7,TRUE,Crypto,4,QRIS,12,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2197466
+10338295,7414204,138294,5769683,11,TRUE,Crypto,5,QRIS,19,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1586079
+9175735,6890478,1798976,5796771,5,TRUE,Crypto,4,QRIS,12,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1355171
+7607409,6084811,962363,2677369,10,TRUE,Crypto,4,E-Wallet,12,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1515628
+12706349,8528337,1179843,9968420,9,TRUE,Crypto,5,E-Wallet,8,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1838472
+7457272,5941285,1485346,5087262,13,TRUE,Crypto,4,E-Wallet,19,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1202476
+5913066,3620486,1166697,3645742,10,TRUE,Crypto,5,QRIS,16,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,871387
+12103194,8153729,1902371,5375473,8,TRUE,Crypto,4,QRIS,17,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1641132
+9102818,6108197,1343399,4694833,10,TRUE,Crypto,5,QRIS,13,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,881854
+9638418,6050310,436737,1512322,5,TRUE,Crypto,5,E-Wallet,15,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,710032
+12762376,8408290,562174,5339855,11,TRUE,Crypto,5,E-Wallet,8,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2476583
+5977133,3669079,999572,2547928,11,TRUE,Crypto,4,E-Wallet,15,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1127483
+5383250,3637533,421058,1099933,12,TRUE,P2P Lending,4,QRIS,16,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,898295
+8331954,5410557,1218398,5669849,11,TRUE,Crypto,4,E-Wallet,16,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1427826
+14378171,9059248,1836472,10441691,10,TRUE,Crypto,5,QRIS,19,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,558473
+14448587,10075511,2299505,5736174,8,TRUE,Crypto,5,E-Wallet,6,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1641797
+9938851,6957911,1703302,6251785,11,TRUE,Crypto,5,QRIS,15,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1628413
+13810487,9457712,1315541,8502938,14,TRUE,Crypto,4,QRIS,11,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,989536
+5972195,4172432,1147473,1230437,12,TRUE,Crypto,5,E-Wallet,10,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,720957
+5399328,3860600,159679,3829242,11,TRUE,Saham,5,E-Wallet,8,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,634312
+14623009,10140308,365098,9126743,5,TRUE,Crypto,5,QRIS,16,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,846233
+8398082,5556141,781162,3964433,14,TRUE,Crypto,5,QRIS,9,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,989006
+14892419,11692577,1305666,2831140,9,TRUE,Crypto,5,E-Wallet,8,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1525409
+7712886,5777102,745177,4191738,12,TRUE,P2P Lending,4,QRIS,8,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,884550
+7301627,4617161,806871,5085162,9,TRUE,Crypto,4,QRIS,10,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,646397
+10605909,7551487,417067,1993381,8,TRUE,Crypto,4,E-Wallet,17,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,725030
+14733106,10519049,930080,3863664,6,TRUE,Crypto,5,QRIS,8,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1070146
+11504377,8079616,557061,3030627,11,TRUE,Crypto,5,QRIS,12,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1339140
+5500235,3818281,1019807,641511,14,TRUE,Crypto,4,QRIS,7,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,659596
+12493440,9672422,1744835,8180451,5,TRUE,Crypto,4,QRIS,6,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2214530
+5929571,4344985,681202,3887551,11,TRUE,Crypto,5,QRIS,15,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,531436
+7173615,5601504,392178,5507581,14,TRUE,Crypto,4,QRIS,18,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,913335
+13402472,8983128,1392872,6643232,9,TRUE,Crypto,4,QRIS,13,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2242051
+5714504,4226102,773292,3783197,9,TRUE,Crypto,4,QRIS,19,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,578369
+10913649,7376474,1624328,4885660,6,TRUE,Crypto,5,E-Wallet,9,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1443924
+12153969,9719047,1786238,11578017,11,TRUE,Crypto,4,E-Wallet,16,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,898770
+7219093,5554863,1296920,2560352,7,TRUE,Crypto,4,E-Wallet,11,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,620367
+14192913,10457752,1392292,12586280,10,TRUE,Crypto,4,E-Wallet,16,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2261673
+9438037,7122477,1774760,3104859,8,TRUE,Crypto,5,E-Wallet,17,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1741972
+13172937,7930150,2634052,12819783,13,TRUE,Crypto,5,QRIS,5,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1299324
+12653603,8062089,1803174,6916072,12,TRUE,Crypto,4,QRIS,10,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1850663
+7818664,5831760,1192509,1262275,10,TRUE,Crypto,5,QRIS,9,Gadget/Elektronik,Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,600885
+8673089,5913871,1494563,4367616,8,TRUE,Crypto,5,E-Wallet,19,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,974056
+8127196,5836932,200240,861415,5,TRUE,Crypto,4,E-Wallet,5,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,808802
+9968072,7380966,1160986,2010271,9,TRUE,Crypto,5,QRIS,12,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1716758
+6409013,4147296,427607,5360251,10,TRUE,P2P Lending,4,E-Wallet,19,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,850651
+14673887,9550932,834726,6935780,6,TRUE,Crypto,4,E-Wallet,9,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2472326
+5208793,3184694,321373,3657414,6,TRUE,Crypto,4,QRIS,7,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,940119
+10018859,7922974,945026,7830118,7,TRUE,Crypto,4,E-Wallet,9,Gadget/Elektronik,Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1694510
+11577915,8877198,1447276,7780200,14,TRUE,Crypto,4,E-Wallet,16,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1298551
+14677743,9044826,561950,2287875,7,TRUE,Crypto,5,E-Wallet,17,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2337561
+5711221,3455901,358284,2498913,5,TRUE,Crypto,5,QRIS,10,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,904114
+8577005,5931811,959678,1709661,11,TRUE,Crypto,4,QRIS,9,Gadget/Elektronik,Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1363156
+13436415,9949367,1431494,4914821,12,TRUE,Crypto,4,QRIS,9,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,501367
+8991481,5941809,1441659,8682198,9,TRUE,Crypto,5,QRIS,5,Gadget/Elektronik,Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1117102
+11164695,7088105,1628915,9335408,13,TRUE,Crypto,4,E-Wallet,16,Gadget/Elektronik,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,881453
+9563787,5765059,1864465,4705798,6,TRUE,Crypto,4,E-Wallet,17,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1036589
+12125423,8025130,378311,9397657,12,TRUE,Crypto,5,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1679636
+10657199,7668491,2082336,9362452,11,TRUE,Crypto,4,E-Wallet,14,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1073937
+14629714,10595434,1795971,5793902,6,TRUE,Crypto,4,E-Wallet,16,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,769608
+11815232,9155149,2274224,9239887,9,TRUE,Crypto,5,QRIS,13,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,953874
+10443521,7916098,1665081,7803726,6,TRUE,Crypto,5,QRIS,19,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1561343
+9070506,6763638,91770,1798215,7,TRUE,Crypto,4,QRIS,10,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1048830
+9168776,7191095,1541577,1634472,11,TRUE,Crypto,5,E-Wallet,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1551260
+8788461,6482936,304587,8641594,6,TRUE,Crypto,5,QRIS,18,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,629372
+14163467,10152024,2521716,7596963,5,TRUE,Crypto,4,E-Wallet,19,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1514471
+13322704,8841908,1105824,3055118,12,TRUE,Crypto,4,QRIS,8,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2631980
+7040959,4912330,1144971,4042092,6,TRUE,Saham,4,E-Wallet,14,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1311062
+11053319,7811549,411041,7777726,10,TRUE,Crypto,5,QRIS,19,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2016451
+6032732,3808939,392284,5631727,13,TRUE,Crypto,4,QRIS,10,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,623683
+8177366,6336866,1061648,5992661,14,TRUE,Crypto,4,QRIS,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,648401
+8687113,6947826,357912,7093698,5,TRUE,Crypto,5,QRIS,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1308163
+11243844,8394644,1325346,1562501,8,TRUE,P2P Lending,5,QRIS,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1100731
+12546344,9555958,657625,10789159,5,TRUE,Crypto,5,E-Wallet,12,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1819604
+10799405,7400457,1330175,6897171,10,TRUE,Crypto,5,QRIS,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1031781
+5000772,3091179,451907,4727775,8,TRUE,Crypto,4,E-Wallet,15,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,593875
+11521085,9032760,682222,5210543,10,TRUE,Crypto,4,QRIS,14,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1911429
+11419060,8271631,1698983,11233931,13,TRUE,Crypto,5,E-Wallet,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,666956
+7375119,5268178,1394132,6858779,8,TRUE,Crypto,4,QRIS,19,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,955121
+5357405,3615523,707113,4142312,7,TRUE,Crypto,5,QRIS,11,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,792316
+12820585,9531707,64524,4434985,5,TRUE,Crypto,5,E-Wallet,10,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1738447
+10523205,7584083,2077715,3838292,9,TRUE,Crypto,4,QRIS,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1034062
+11540240,8210576,1086277,4772809,10,TRUE,Crypto,5,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1383436
+6398280,4228803,498776,6095878,11,TRUE,Crypto,5,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1244161
+8976402,5620519,758465,4643134,13,TRUE,Crypto,4,QRIS,11,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1125494
+7414049,5425368,83840,1378125,9,TRUE,Crypto,5,QRIS,10,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1375045
+14423023,11324548,2422272,1585852,9,TRUE,Crypto,5,E-Wallet,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2680574
+11058425,7448124,949800,10573070,14,TRUE,Crypto,4,QRIS,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1541963
+9051638,5901228,299928,3420815,11,TRUE,Crypto,5,QRIS,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1038138
+12131726,7862672,1046918,6246846,13,TRUE,Crypto,5,QRIS,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,783355
+8122286,6449451,958829,6323667,6,TRUE,Crypto,4,E-Wallet,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1551705
+7070231,5398403,434235,3776514,8,TRUE,Crypto,4,E-Wallet,11,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,775337
+11320104,7206894,1935205,9595901,6,TRUE,Crypto,4,E-Wallet,13,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,607112
+10117870,7729245,1926153,2010179,13,TRUE,Crypto,5,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1943932
+5186396,3521377,33886,3381030,11,TRUE,Crypto,5,E-Wallet,19,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,887161
+8661959,5869149,1165996,5804698,13,TRUE,Crypto,4,E-Wallet,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,675362
+12083055,7811694,1502267,6729503,14,TRUE,Crypto,5,QRIS,14,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1552765
+12815819,9504195,2452787,2706066,12,TRUE,Crypto,4,QRIS,11,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2468447
+11447133,7677413,13269,11078779,13,TRUE,Crypto,5,E-Wallet,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1547679
+9987615,7336583,88021,7412144,12,TRUE,Crypto,4,QRIS,19,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1105763
+13676062,8748043,2329405,7505513,11,TRUE,Crypto,5,QRIS,8,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1948180
+6088342,4636690,913269,1748985,8,TRUE,Crypto,4,QRIS,17,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,729525
+8030718,6068460,914924,1450816,6,TRUE,Crypto,4,E-Wallet,12,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,840383
+6232319,4442458,612861,1280035,6,TRUE,Saham,5,QRIS,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,664049
+13824956,11026053,2335940,3270539,10,TRUE,P2P Lending,5,QRIS,17,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1336889
+12409393,8281597,495839,4849672,11,TRUE,Crypto,5,QRIS,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2450603
+6958994,4237295,1219799,1106590,12,TRUE,Crypto,5,QRIS,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,637517
+6768418,5090554,943958,1265792,13,TRUE,Saham,5,QRIS,15,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,577723
+9588650,5946807,230151,7402842,5,TRUE,Crypto,5,QRIS,19,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,701186
+10664053,8109460,1207417,2613634,13,TRUE,Crypto,4,QRIS,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1626651
+14146909,11154604,2017950,12846806,10,TRUE,Crypto,5,E-Wallet,15,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1942485
+12996677,10050500,465209,12483403,6,TRUE,Crypto,5,E-Wallet,6,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2371335
+14228863,9593172,2841918,3152983,12,TRUE,Crypto,5,E-Wallet,10,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2078703
+6415731,4760344,188588,6337941,8,TRUE,Crypto,5,E-Wallet,10,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1077240
+11241078,8960981,496865,7904938,5,TRUE,Crypto,5,QRIS,10,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1411058
+14124207,10863363,2111534,7508317,6,TRUE,Crypto,4,E-Wallet,16,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2034020
+11766045,7402588,784419,5349576,8,TRUE,Crypto,5,QRIS,11,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2022977
+13096111,9065373,652657,8426299,13,TRUE,Crypto,5,QRIS,19,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2166305
+12558709,8683569,1618295,8454090,10,TRUE,Crypto,5,E-Wallet,14,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2471149
+9019035,6105892,442461,1857814,5,TRUE,Crypto,4,E-Wallet,19,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1072934
+7963793,6046814,595645,1997221,11,TRUE,Crypto,4,QRIS,12,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,840615
+13990316,8740113,1481813,6746782,7,TRUE,Crypto,4,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1440999
+14569418,11436880,861732,2955952,7,TRUE,Crypto,4,QRIS,10,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,525266
+8236594,6418527,1495893,6256895,7,TRUE,Crypto,5,E-Wallet,7,Hiburan (Film/Konser/Game),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,710934
+13075246,8614006,1744109,7997636,8,TRUE,Crypto,4,QRIS,18,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2282414
+10358282,7279264,750287,7443748,8,TRUE,Crypto,4,E-Wallet,13,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,863307
+12797949,8323771,882145,5363707,12,TRUE,Crypto,5,E-Wallet,18,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,992448
+13790969,10634895,284483,1603481,14,TRUE,Crypto,5,QRIS,18,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,673184
+14484212,9678295,1124062,5010181,6,TRUE,Crypto,4,QRIS,9,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1088961
+5057467,3278599,636586,740796,6,TRUE,Crypto,4,QRIS,13,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,874482
+11308674,7633992,2156674,3203617,8,TRUE,Crypto,4,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1992988
+9528857,6585822,597158,6849515,6,TRUE,Crypto,5,QRIS,8,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1199410
+7788610,5602079,638731,5101009,14,TRUE,Crypto,4,QRIS,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,910300
+9764446,5896172,955985,2732460,5,TRUE,Crypto,5,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,858063
+14348749,9289641,1511785,2621327,14,TRUE,Crypto,4,QRIS,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,763271
+9936107,6703132,490487,6741574,9,TRUE,Crypto,5,E-Wallet,18,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1080008
+10717860,6806367,438781,1767506,9,TRUE,Crypto,4,QRIS,5,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1440017
+6749963,5220212,871165,2460516,6,TRUE,Crypto,5,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,684357
+10496501,6871981,854292,4366864,11,TRUE,Crypto,4,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1211318
+14199220,9753143,2718348,8996742,12,TRUE,Crypto,5,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1010064
+7313370,4717141,862139,2256117,8,TRUE,P2P Lending,4,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,983551
+10360911,6904423,267038,6884168,6,TRUE,Crypto,5,QRIS,5,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1056402
+13452890,10446838,2260710,13385394,13,TRUE,Crypto,4,QRIS,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1923843
+10444883,6701674,1670901,4553241,7,TRUE,P2P Lending,5,QRIS,17,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1095412
+12151103,9022508,1469157,7307715,12,TRUE,Crypto,5,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1186088
+9879305,6841833,281037,2850702,10,TRUE,Crypto,5,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1287649
+10031701,7044831,85568,4612480,8,TRUE,Crypto,5,E-Wallet,17,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1615195
+10983019,7311538,400104,10225650,10,TRUE,Crypto,5,QRIS,10,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,875124
+11303966,8314720,1630765,7352977,5,TRUE,P2P Lending,5,QRIS,6,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1226761
+12104656,8627516,2230588,5783510,14,TRUE,Crypto,4,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1010366
+10642552,6504185,1065750,1405722,11,TRUE,Crypto,4,E-Wallet,13,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1525918
+12342019,8731090,391660,8345972,6,TRUE,Saham,4,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,861849
+9388435,6288722,354371,7154295,5,TRUE,Crypto,4,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1689831
+5088946,3903670,926239,2756473,14,TRUE,Crypto,5,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,886565
+7297269,5344444,1224769,4754064,10,TRUE,Crypto,4,QRIS,8,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1141188
+13928855,10548431,2581456,7077314,7,TRUE,Crypto,5,E-Wallet,13,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1912647
+12678483,8004254,1372008,6028585,8,TRUE,Crypto,5,E-Wallet,11,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1257764
+13706141,9623045,164894,1949621,12,TRUE,Crypto,5,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1687483
+13537991,10562089,2206681,10605620,7,TRUE,Crypto,5,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,2430947
+10114222,6783381,1751267,4821574,6,TRUE,Crypto,4,QRIS,6,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1385915
+13289519,10424021,2651432,4354478,6,TRUE,Crypto,5,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2312138
+12196154,8167806,1681765,9842530,13,TRUE,Crypto,4,E-Wallet,11,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1105909
+10680275,7323613,1107251,2173117,12,TRUE,Crypto,4,E-Wallet,6,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1658802
+14171633,8916759,766187,7789684,12,TRUE,Crypto,5,QRIS,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1118638
+8738985,5375547,1160799,3641631,5,TRUE,Crypto,5,QRIS,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1241620
+12002664,8719425,1986830,1812893,14,TRUE,Crypto,4,E-Wallet,19,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,1414707
+13583254,9333011,702041,2108248,11,TRUE,Saham,5,E-Wallet,15,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1087485
+9028077,5816014,1520534,1553436,11,TRUE,Saham,5,QRIS,13,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1237138
+14679236,11443730,2769072,12170422,13,TRUE,Crypto,5,QRIS,12,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,2724387
+12825500,8657465,470457,12208771,5,TRUE,Crypto,4,E-Wallet,12,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2362461
+6745801,4412526,802575,5481241,10,TRUE,Crypto,5,E-Wallet,18,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,732811
+13511019,9102865,2313244,3949875,6,TRUE,Crypto,5,QRIS,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1207971
+14143296,11086334,2272403,6598398,14,TRUE,Crypto,5,QRIS,5,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,2795222
+9378815,6479595,945380,8373378,12,TRUE,Crypto,5,QRIS,12,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1352964
+7859671,6195945,1188360,5167579,10,TRUE,Crypto,5,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1504739
+8416409,5258012,1448978,7470416,8,TRUE,Crypto,5,QRIS,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1052040
+13810088,8921064,878172,8351480,5,TRUE,Crypto,4,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1420262
+6521633,4730553,821832,3772558,7,TRUE,Crypto,5,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1030236
+14511924,9604108,2421978,10571627,14,TRUE,Saham,4,E-Wallet,13,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,865995
+14601896,10734207,1901142,4164830,8,TRUE,Crypto,4,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1886556
+8457136,5568815,215348,6443677,11,TRUE,Crypto,5,E-Wallet,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,784425
+6063141,3925076,225112,1446931,13,TRUE,Crypto,5,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1185804
+14522310,10146462,2322020,9776889,11,TRUE,Crypto,5,E-Wallet,12,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1945961
+10581939,8426074,1669291,3523291,13,TRUE,Crypto,4,E-Wallet,15,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1332488
+14568135,11167722,2048149,10846533,14,TRUE,Crypto,5,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1471662
+11758209,8036815,483774,9842504,6,TRUE,Crypto,5,E-Wallet,17,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,2129901
+12031330,8038397,308977,2643363,6,TRUE,Crypto,5,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,1194056
+8918923,5963739,782780,6847413,12,TRUE,Crypto,4,QRIS,14,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,870037
+6123153,3746305,307525,4354838,9,TRUE,Crypto,4,E-Wallet,14,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,623655
+8721629,5292669,991407,3706594,7,TRUE,Crypto,4,E-Wallet,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,714238
+10088426,6857913,446057,6262824,9,TRUE,Crypto,4,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1231589
+11271904,7105113,835783,2028788,13,TRUE,Crypto,5,E-Wallet,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,943797
+9367060,7285719,1686290,2855564,10,TRUE,Crypto,4,E-Wallet,10,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,797007
+11110953,7038310,13313,3311897,6,TRUE,Crypto,4,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1661405
+5751809,4128795,492873,1194397,13,TRUE,Crypto,5,QRIS,16,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Berinvestasi Jangka Panjang,Crypto Bros,530999
+10615559,7523196,660704,1656781,12,TRUE,Crypto,4,QRIS,14,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1637563
+7115854,4286062,87589,5029841,8,TRUE,Crypto,4,QRIS,6,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,824853
+10707502,7433198,1688612,8418458,11,TRUE,Crypto,5,QRIS,18,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Terkadang,Berinvestasi Jangka Panjang,Crypto Bros,1171282
+5325909,3847228,465896,1435634,5,TRUE,Crypto,5,E-Wallet,10,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,963987
+6198014,4581553,467083,5893983,8,TRUE,Crypto,5,E-Wallet,11,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Crypto Bros,1179589
+8494618,6574731,1521604,8474312,8,TRUE,Crypto,5,E-Wallet,18,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Terkadang,Meningkatkan Gaya Hidup,Crypto Bros,838730
+5969363,5050925,749012,71068,28,FALSE,tidak ada,0,Kartu Kredit,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6845507,7466861,2683476,441567,10,FALSE,tidak ada,0,Kartu Kredit,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7312840,6203995,2877362,281232,14,TRUE,Reksa Dana,1,E-Wallet,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,1160683
+3855907,4218912,1787778,68050,11,TRUE,Reksa Dana,2,Kartu Kredit,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,514330
+4999101,5308141,788205,404205,20,TRUE,Saham,1,E-Wallet,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,697539
+7938181,7001781,3061440,302753,12,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6955261,8278533,922075,303606,25,FALSE,tidak ada,0,Kartu Kredit,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3595235,3821302,1759558,1780,13,FALSE,tidak ada,0,E-Wallet,9,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4970947,4701625,1447824,429861,13,TRUE,Saham,1,Kartu Kredit,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,952521
+3230782,2586875,350292,222886,15,TRUE,Saham,1,E-Wallet,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,590376
+5270850,4495142,1612794,87858,11,TRUE,Reksa Dana,1,Kartu Kredit,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,737418
+7333529,7196788,3012863,274014,11,FALSE,tidak ada,0,E-Wallet,2,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6779058,6190455,1396795,182367,29,FALSE,tidak ada,0,Kartu Kredit,2,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4429111,3758496,1886242,345318,21,FALSE,tidak ada,0,Kartu Kredit,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6086231,6584024,2053646,143776,23,FALSE,tidak ada,0,Kartu Kredit,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4046091,3567094,1385905,98354,28,TRUE,Saham,1,Kartu Kredit,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,561146
+5417239,4410332,2355905,252184,28,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7860427,9137201,2842009,360774,10,FALSE,tidak ada,0,E-Wallet,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3797131,3432175,459902,278441,27,TRUE,Saham,2,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,708428
+7944429,7815704,1974227,478343,24,FALSE,tidak ada,0,Kartu Kredit,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7579859,7502091,1805928,532766,21,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4925516,5423216,855223,164878,11,FALSE,tidak ada,0,Kartu Kredit,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5021534,5386003,1446409,193719,21,FALSE,tidak ada,0,Kartu Kredit,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5904087,6925061,1375670,306876,24,TRUE,Saham,2,E-Wallet,8,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,712326
+5806357,5715881,1506657,324469,18,FALSE,tidak ada,0,E-Wallet,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4839828,5577793,893744,446151,22,FALSE,tidak ada,0,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7188209,7002506,1919753,700598,11,FALSE,tidak ada,0,E-Wallet,8,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3973270,4322530,1817174,43906,11,TRUE,Reksa Dana,1,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,785048
+7562569,8807279,950853,130048,23,FALSE,tidak ada,0,E-Wallet,1,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4570037,4578113,1266286,212967,26,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5104195,5933539,935737,470624,20,FALSE,tidak ada,0,Kartu Kredit,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6653075,7004403,798840,207280,18,TRUE,Saham,1,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,992593
+5516243,5180466,944123,508994,22,TRUE,Reksa Dana,2,E-Wallet,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,661382
+5779610,6250979,1495253,35062,18,FALSE,tidak ada,0,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4421063,4575656,560720,270970,21,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4167317,3780303,1332803,351469,20,TRUE,Reksa Dana,2,E-Wallet,0,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,556042
+4039375,4543360,1460936,297751,17,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6943107,5637991,1073001,323938,23,TRUE,Saham,2,Kartu Kredit,1,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,919053
+5617317,6127730,2225259,294241,18,FALSE,tidak ada,0,Kartu Kredit,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7362498,8218973,2587824,110394,27,FALSE,tidak ada,0,Kartu Kredit,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4908683,5665354,1751396,85342,10,FALSE,tidak ada,0,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5294555,4784952,1537465,464007,11,FALSE,tidak ada,0,E-Wallet,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4994057,4345651,1991833,324394,15,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4770345,5371416,832472,459724,28,FALSE,tidak ada,0,Kartu Kredit,2,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6245967,5943435,1551653,17681,14,FALSE,tidak ada,0,E-Wallet,7,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7822677,8373833,1029164,265775,23,FALSE,tidak ada,0,E-Wallet,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6391411,7422386,1657606,283030,11,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7594413,8556885,3772882,609348,18,TRUE,Reksa Dana,2,E-Wallet,8,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,520402
+4702558,4454302,1087219,101577,25,FALSE,tidak ada,0,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+7758852,7593332,785232,730586,29,FALSE,tidak ada,0,Kartu Kredit,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3544666,3481912,409383,220065,15,TRUE,Saham,2,Kartu Kredit,7,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,501316
+5727184,5152597,1805672,445486,15,FALSE,tidak ada,0,Kartu Kredit,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7690977,8288272,1935146,190962,11,FALSE,tidak ada,0,E-Wallet,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5333627,4687971,662360,241390,11,TRUE,Saham,1,Kartu Kredit,9,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,936568
+4434731,4443520,756846,371495,21,FALSE,tidak ada,0,E-Wallet,1,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7866683,8923948,3883156,667385,21,FALSE,tidak ada,0,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7564145,9017001,2010063,708935,22,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5575624,5147054,1750632,26278,14,FALSE,tidak ada,0,Kartu Kredit,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6515634,6404229,2086084,387297,24,TRUE,Saham,2,Kartu Kredit,8,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,1021083
+5608882,6368036,1232002,96971,26,FALSE,tidak ada,0,E-Wallet,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6412907,5249060,2180459,225336,12,FALSE,tidak ada,0,E-Wallet,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3611673,3762240,818857,176407,11,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4782852,4594019,1501360,25403,15,TRUE,Saham,1,Kartu Kredit,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,602722
+7068433,6075629,830662,662935,22,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6342455,7577942,2775591,496013,15,FALSE,tidak ada,0,Kartu Kredit,0,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4102509,3652257,1236051,290536,20,FALSE,tidak ada,0,E-Wallet,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6952416,7083421,3161424,47391,24,TRUE,Saham,2,Kartu Kredit,7,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,701148
+7415947,6790165,1669197,700263,10,FALSE,tidak ada,0,Kartu Kredit,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4075673,3447771,1703628,376483,27,TRUE,Saham,2,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,711229
+6529470,7735104,966220,187578,15,TRUE,Saham,1,Kartu Kredit,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,739948
+5761270,6517443,920179,410853,18,TRUE,Reksa Dana,2,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,565696
+5443358,4661619,1686084,533343,23,FALSE,tidak ada,0,E-Wallet,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5817584,5977582,1593022,41455,22,FALSE,tidak ada,0,Kartu Kredit,9,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6323825,7573356,2550164,236976,20,TRUE,Saham,2,Kartu Kredit,0,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,1076822
+5358235,4698408,2642257,279041,20,TRUE,Reksa Dana,2,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,966810
+4975524,5894967,1400433,433906,28,FALSE,tidak ada,0,Kartu Kredit,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4106026,4801349,693492,100006,18,FALSE,tidak ada,0,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3503948,4024571,1331542,100568,11,FALSE,tidak ada,0,Kartu Kredit,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5392703,5302628,1669149,54529,16,FALSE,tidak ada,0,Kartu Kredit,1,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6620576,5720006,2545239,660718,29,TRUE,Saham,1,Kartu Kredit,7,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,1146580
+7297938,6370794,1997898,479051,23,FALSE,tidak ada,0,Kartu Kredit,2,Fashion/Pakaian,Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3279275,3812471,793034,261817,16,FALSE,tidak ada,0,E-Wallet,4,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4691228,4882266,2240977,432778,23,TRUE,Saham,1,Kartu Kredit,8,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,819652
+7151780,8403904,2506132,533027,20,TRUE,Saham,2,E-Wallet,9,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,1086247
+7130423,8307008,2854627,367620,16,FALSE,tidak ada,0,E-Wallet,7,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5322202,6103704,1340049,87530,11,TRUE,Saham,1,Kartu Kredit,8,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,588412
+3983427,3413567,1983617,209237,26,TRUE,Saham,1,Kartu Kredit,5,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,502437
+3211187,2907096,1298239,302685,11,FALSE,tidak ada,0,Kartu Kredit,0,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6418623,5756334,2091810,160509,18,FALSE,tidak ada,0,E-Wallet,3,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6159756,7332413,1770763,519275,22,FALSE,tidak ada,0,E-Wallet,5,Fashion/Pakaian,Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+7687567,8903863,1793632,547497,11,FALSE,tidak ada,0,Kartu Kredit,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4633267,4284743,1010721,154433,27,FALSE,tidak ada,0,Kartu Kredit,2,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7380884,8210678,769121,178884,13,TRUE,Saham,1,E-Wallet,6,Fashion/Pakaian,Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,553984
+4950892,5470339,1112506,229071,23,FALSE,tidak ada,0,Kartu Kredit,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5875939,6235113,1915425,219139,23,FALSE,tidak ada,0,E-Wallet,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4246956,3724084,1095270,419444,14,FALSE,tidak ada,0,E-Wallet,2,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4682757,3847707,2067870,37768,25,TRUE,Reksa Dana,1,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,603790
+7626479,6453144,842987,715962,20,TRUE,Saham,1,Kartu Kredit,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,862940
+7697796,6163676,970978,642096,11,TRUE,Saham,1,E-Wallet,9,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,1390783
+4984757,4071100,1942879,40050,24,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5552576,5648512,2118007,209189,12,FALSE,tidak ada,0,Kartu Kredit,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6486392,6354947,677625,341604,10,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3367591,3302452,1596256,79628,25,TRUE,Reksa Dana,1,Kartu Kredit,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,622155
+3835861,4294682,994533,124016,23,FALSE,tidak ada,0,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7905317,7635602,1042208,432762,11,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+7478540,7136860,2592267,62081,28,FALSE,tidak ada,0,E-Wallet,4,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5994580,4814779,2893297,21529,20,TRUE,Reksa Dana,1,Kartu Kredit,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,524375
+4909212,4573411,1328029,104979,26,TRUE,Reksa Dana,1,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,663051
+7693410,6551915,3492111,260321,13,TRUE,Reksa Dana,1,Kartu Kredit,1,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,1450460
+4824161,5594151,1350919,344421,15,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4290629,4799313,612501,294055,16,FALSE,tidak ada,0,Kartu Kredit,3,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3861305,3320745,1499277,130042,22,TRUE,Saham,1,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,700873
+6072275,5016958,1107108,129692,18,TRUE,Saham,2,E-Wallet,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,1095894
+3198941,3280416,1459340,305770,27,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3577885,3756440,647661,244505,25,FALSE,tidak ada,0,Kartu Kredit,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4190581,3356991,1709432,412236,17,TRUE,Reksa Dana,2,Kartu Kredit,3,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,735793
+5835768,5425734,1153733,390219,14,FALSE,tidak ada,0,Kartu Kredit,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6346041,7300502,1668014,211749,13,TRUE,Saham,2,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,995311
+3956081,3739440,1254844,227798,15,TRUE,Saham,2,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,784767
+5894913,6139591,1174541,331236,16,FALSE,tidak ada,0,E-Wallet,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6846925,7261647,3068976,413794,16,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5550388,4961087,2130625,450501,27,FALSE,tidak ada,0,Kartu Kredit,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7480880,7200043,3669353,307457,27,FALSE,tidak ada,0,E-Wallet,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4666086,4654733,569997,52766,10,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7209246,6295902,1241388,138094,18,FALSE,tidak ada,0,Kartu Kredit,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3747868,4351291,750545,233896,10,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6186136,5666341,2875496,99033,15,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5228932,5164773,2532414,368125,28,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6304153,5392971,1928939,461111,21,FALSE,tidak ada,0,E-Wallet,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4892323,5050667,1434941,428318,23,TRUE,Reksa Dana,2,Kartu Kredit,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,565330
+6087128,6833755,1058073,248894,29,FALSE,tidak ada,0,E-Wallet,4,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4994226,5571450,2175225,453796,13,TRUE,Reksa Dana,2,Kartu Kredit,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,756941
+3605599,3310217,846933,167035,28,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6664444,6798592,2010629,464660,15,FALSE,tidak ada,0,E-Wallet,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3352427,3451321,1328517,273542,11,FALSE,tidak ada,0,Kartu Kredit,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4978485,4287050,1048328,287675,18,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4071529,3645709,1246122,229784,22,FALSE,tidak ada,0,Kartu Kredit,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4064654,4670821,856065,61001,13,FALSE,tidak ada,0,Kartu Kredit,1,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6714542,6826764,2337594,189806,28,FALSE,tidak ada,0,Kartu Kredit,1,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4883275,4344015,786609,207211,18,FALSE,tidak ada,0,Kartu Kredit,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6080893,6387983,1183774,526978,25,FALSE,tidak ada,0,Kartu Kredit,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4292752,3477932,1585418,295009,20,FALSE,tidak ada,0,E-Wallet,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6162419,6225165,1659956,98277,27,FALSE,tidak ada,0,Kartu Kredit,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7924954,9117519,1487689,504178,14,FALSE,tidak ada,0,E-Wallet,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4898061,4989925,894276,470941,16,TRUE,Saham,2,E-Wallet,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,875990
+7086862,7247194,3329495,1615,29,FALSE,tidak ada,0,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6954321,7570583,3006387,674546,18,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6796953,6440963,1987814,136023,17,FALSE,tidak ada,0,Kartu Kredit,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7646476,7080983,1152797,487046,29,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5480010,6199789,1618563,251576,21,FALSE,tidak ada,0,Kartu Kredit,9,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5491877,6047761,2191238,418279,17,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7303028,8592861,3286450,546168,15,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6609344,6473865,2993641,281215,24,FALSE,tidak ada,0,Kartu Kredit,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4498802,5121917,600545,188796,17,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6876081,8064210,3111091,462343,23,FALSE,tidak ada,0,E-Wallet,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5615228,6716441,1085893,387738,24,TRUE,Saham,2,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,982606
+7503119,6464207,3002466,316460,18,FALSE,tidak ada,0,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3980787,4143297,1083607,304647,14,TRUE,Saham,1,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,591450
+6748261,5827390,825359,144819,12,FALSE,tidak ada,0,Kartu Kredit,4,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3478590,4100231,1450894,188035,24,FALSE,tidak ada,0,Kartu Kredit,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6102640,6381838,2709488,262172,24,FALSE,tidak ada,0,Kartu Kredit,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5116794,6005762,1918658,335121,27,FALSE,tidak ada,0,Kartu Kredit,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3503189,3645748,423974,89563,22,FALSE,tidak ada,0,Kartu Kredit,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4755689,5254103,1275133,410404,18,FALSE,tidak ada,0,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6798299,7984333,1844410,14283,27,TRUE,Reksa Dana,2,Kartu Kredit,4,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,1285725
+5470131,4645726,1742518,494765,13,FALSE,tidak ada,0,Kartu Kredit,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+7684046,8981943,3453624,335653,20,FALSE,tidak ada,0,Kartu Kredit,4,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3819117,3056732,1512322,68161,26,TRUE,Saham,1,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,525053
+4424727,4186665,1549855,335996,29,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7349719,7148251,3273133,482234,11,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5071297,4324075,1583002,103017,22,TRUE,Reksa Dana,1,Kartu Kredit,6,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,652376
+5043413,4537981,2105997,391935,14,FALSE,tidak ada,0,Kartu Kredit,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7696694,8503869,1421734,492840,28,TRUE,Saham,2,Kartu Kredit,3,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,1316596
+6784719,7704204,1975889,607026,19,TRUE,Saham,2,Kartu Kredit,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,590337
+3944481,4456003,404093,372055,22,FALSE,tidak ada,0,E-Wallet,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4573862,5483880,2096058,132661,15,FALSE,tidak ada,0,Kartu Kredit,3,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5234996,5061733,1813998,419726,18,FALSE,tidak ada,0,E-Wallet,0,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4544673,4703031,2120289,318297,27,FALSE,tidak ada,0,Kartu Kredit,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6117159,7244502,1906938,55563,18,TRUE,Saham,1,E-Wallet,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,1217092
+6743670,7473633,3260049,556245,26,FALSE,tidak ada,0,E-Wallet,9,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7216239,8381648,2905452,452761,18,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6272484,5148597,942744,27492,18,TRUE,Reksa Dana,1,Kartu Kredit,5,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,1183053
+4842361,5163211,1144806,227387,25,FALSE,tidak ada,0,Kartu Kredit,6,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4477326,4236318,1119252,355240,29,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6316694,6437481,2969628,543695,29,TRUE,Saham,1,E-Wallet,4,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,843352
+4275978,4443612,2098735,84516,11,FALSE,tidak ada,0,Kartu Kredit,7,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6612099,6754816,1773172,12863,23,TRUE,Reksa Dana,2,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,567852
+3829323,4375802,1647974,200097,26,TRUE,Reksa Dana,1,E-Wallet,5,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,590211
+6113283,5980719,2179614,457798,23,FALSE,tidak ada,0,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5148992,5257817,1505637,130122,28,FALSE,tidak ada,0,E-Wallet,8,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5275479,6119478,535809,238460,21,FALSE,tidak ada,0,E-Wallet,7,Hiburan (Film/Konser/Game),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7565493,6139472,1381351,305882,15,FALSE,tidak ada,0,E-Wallet,2,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4030334,3235524,538695,340127,27,FALSE,tidak ada,0,E-Wallet,1,Hiburan (Film/Konser/Game),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+3020563,3236803,409508,222564,20,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+7699925,7869410,3811703,352663,12,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6353167,5900386,2745047,269737,10,FALSE,tidak ada,0,Kartu Kredit,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4338947,4507797,962349,25827,16,FALSE,tidak ada,0,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6840413,7305798,2439574,582493,18,TRUE,Reksa Dana,2,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,915340
+3827865,3832314,1408448,75692,23,TRUE,Reksa Dana,2,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,507434
+7911032,6532690,1976872,612255,10,FALSE,tidak ada,0,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3322291,2927668,496225,256664,16,FALSE,tidak ada,0,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6414065,7483023,1180521,176912,27,FALSE,tidak ada,0,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3445195,3515613,1232468,211992,14,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5808115,5208636,1081891,252833,17,FALSE,tidak ada,0,E-Wallet,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5526700,5577367,2158334,150719,21,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5749442,5494903,996616,387584,25,FALSE,tidak ada,0,Kartu Kredit,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5624764,6383773,1183324,376538,23,TRUE,Reksa Dana,2,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,742610
+6870921,6411507,2876724,92785,27,FALSE,tidak ada,0,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5780959,5952706,2412762,325417,18,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5157424,5841567,1203812,268296,20,FALSE,tidak ada,0,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4694179,5509940,1883112,331559,21,FALSE,tidak ada,0,Kartu Kredit,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6177166,6082184,2082897,271761,18,TRUE,Saham,2,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,742360
+5337554,6228919,2658118,146708,24,TRUE,Saham,1,Kartu Kredit,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,1065591
+5870018,6380411,2613658,579904,29,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7160799,7071391,1933116,292342,26,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6889960,7017492,1147045,556988,26,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3522805,3264761,1402593,296131,18,TRUE,Reksa Dana,1,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,599628
+5648709,5431110,1727589,135618,25,FALSE,tidak ada,0,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5043456,5052941,1875987,300984,21,FALSE,tidak ada,0,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6542561,5309584,943155,487263,23,FALSE,tidak ada,0,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6242355,6815757,2159449,449154,29,FALSE,tidak ada,0,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5348600,5982825,1944182,314540,15,TRUE,Reksa Dana,2,E-Wallet,6,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,916868
+6242363,7149494,1799831,217828,10,TRUE,Reksa Dana,1,E-Wallet,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,623888
+4171861,4569573,1236939,305178,13,FALSE,tidak ada,0,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5312366,4886390,591889,207329,17,TRUE,Reksa Dana,2,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,898554
+4282025,4549494,1713181,124136,17,TRUE,Saham,1,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,771010
+3344652,3566056,795389,58991,26,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5865280,6177251,2236181,543661,19,FALSE,tidak ada,0,Kartu Kredit,5,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6474549,7690988,863459,44046,19,FALSE,tidak ada,0,Kartu Kredit,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3988100,3447015,464474,32259,12,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3340313,3006290,1214746,160107,26,TRUE,Saham,2,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,558789
+5220789,5995567,1611804,418257,17,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3210670,2586184,1498758,183760,18,FALSE,tidak ada,0,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5079573,4344234,1553313,128143,24,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6839546,7836812,1194057,572785,11,TRUE,Reksa Dana,2,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,1272507
+7073988,8426033,1481791,576412,27,FALSE,tidak ada,0,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4136241,4135142,664083,204797,15,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6700461,7919703,2091267,17778,16,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3005985,3593812,1261864,257917,25,TRUE,Reksa Dana,2,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,512624
+6750082,7027734,2223834,176465,10,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4740785,5522459,1845421,139898,23,TRUE,Saham,1,E-Wallet,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,695455
+6319374,7325192,1554702,24033,11,TRUE,Reksa Dana,1,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,854451
+7665979,6551314,1537383,64186,21,TRUE,Saham,1,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,670785
+4195722,4170614,1857882,121970,11,FALSE,tidak ada,0,Kartu Kredit,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3910794,3336071,1759225,303969,18,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6088189,6094755,1510066,127698,25,TRUE,Reksa Dana,1,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,665126
+6370266,7309463,2606787,484539,18,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7128901,7642170,1300613,522414,28,FALSE,tidak ada,0,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3879933,3540307,1705647,293716,23,TRUE,Saham,1,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,723659
+3044856,2908679,913332,129587,11,TRUE,Reksa Dana,1,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,510234
+6900227,6180631,1391648,583926,24,FALSE,tidak ada,0,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3614522,4084974,1678717,214240,26,FALSE,tidak ada,0,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5346928,4307546,2521154,346320,27,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6950585,5837128,1244498,460736,23,FALSE,tidak ada,0,E-Wallet,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5636116,5483933,712944,236134,24,FALSE,tidak ada,0,Kartu Kredit,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6107041,5705370,1197833,20326,20,FALSE,tidak ada,0,E-Wallet,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4451443,4464021,2143608,10217,28,TRUE,Saham,2,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,500182
+5181368,4907321,1114080,462997,27,FALSE,tidak ada,0,Kartu Kredit,8,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5223141,4739038,665610,57172,27,FALSE,tidak ada,0,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+5120570,5800221,2326634,60068,22,FALSE,tidak ada,0,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5513836,6144190,1365923,177915,15,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4120061,4067726,1899437,411784,19,TRUE,Saham,1,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,599719
+3722405,3513878,789430,57813,11,FALSE,tidak ada,0,E-Wallet,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+7006427,8290704,2479199,23642,24,TRUE,Saham,2,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,1340612
+7175024,6630547,795935,60287,22,FALSE,tidak ada,0,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6089672,5008307,2607369,11921,21,TRUE,Reksa Dana,1,E-Wallet,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,591684
+6353514,6974456,3071483,215324,12,FALSE,tidak ada,0,Kartu Kredit,5,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5975951,7123474,708842,163033,29,TRUE,Saham,2,Kartu Kredit,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,798201
+6123757,6015426,3046796,73834,14,FALSE,tidak ada,0,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+3376128,4033504,429264,4284,11,TRUE,Reksa Dana,2,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,670221
+5696474,5015311,2173454,23876,15,FALSE,tidak ada,0,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6825415,7975190,1661701,391224,26,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3430833,2824142,496354,228109,10,FALSE,tidak ada,0,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3624575,3749959,1052626,109078,28,TRUE,Reksa Dana,1,Kartu Kredit,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,519554
+5463834,6033666,1614340,35886,24,FALSE,tidak ada,0,E-Wallet,6,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+7297329,8168054,2822505,681399,20,FALSE,tidak ada,0,Kartu Kredit,2,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3255609,2851501,1082690,12284,12,FALSE,tidak ada,0,E-Wallet,8,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+3684895,3618995,578905,134499,20,FALSE,tidak ada,0,E-Wallet,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6729172,6173077,879429,182491,23,FALSE,tidak ada,0,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+5196968,4975418,1320937,381561,25,FALSE,tidak ada,0,Kartu Kredit,3,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4408949,4174321,2012110,231772,27,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4130027,3963469,1956372,261170,27,FALSE,tidak ada,0,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+4499048,4204600,2082480,420006,28,FALSE,tidak ada,0,Kartu Kredit,6,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+4462522,3931732,1249548,116087,18,TRUE,Saham,1,E-Wallet,7,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,643442
+3784091,3756865,1740014,311761,27,TRUE,Reksa Dana,2,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,545717
+7064308,6313814,830292,439451,20,TRUE,Reksa Dana,2,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,989343
+6330821,5441562,2914110,208731,27,FALSE,tidak ada,0,E-Wallet,5,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4508150,3747993,859893,446511,15,FALSE,tidak ada,0,Kartu Kredit,7,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+6576582,5697416,1254596,357597,25,TRUE,Saham,1,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,778285
+3015573,3076121,478387,257983,29,FALSE,tidak ada,0,Kartu Kredit,1,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,0
+6333614,5187063,659385,458049,24,FALSE,tidak ada,0,E-Wallet,3,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+6888209,7282386,2501935,652961,26,TRUE,Reksa Dana,2,Kartu Kredit,4,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Gaya Hidup,Jaksel Maksa,1254866
+3663489,4263456,831260,188681,29,FALSE,tidak ada,0,Kartu Kredit,9,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+4333685,3787095,1815326,260797,22,FALSE,tidak ada,0,Kartu Kredit,0,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),Tidak pernah,Gaya Hidup,Jaksel Maksa,0
+5699573,5802301,1877881,308643,10,TRUE,Reksa Dana,2,E-Wallet,0,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Meningkatkan Gaya Hidup,Jaksel Maksa,609901
+4226012,3618480,584091,315124,11,FALSE,tidak ada,0,E-Wallet,9,Makanan/Minuman (Kuliner/Coffee Shop),Tidak Ada,Tidak pernah,Melunasi Utang,Jaksel Maksa,0
+20997512,12369073,19687,26410060,5,TRUE,Saham,4,E-Wallet,29,Fashion/Pakaian,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,3349374
+15863041,8918617,743932,18940701,5,TRUE,Emas/Logam Mulia,3,E-Wallet,36,Fashion/Pakaian,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,667439
+20198148,9402360,1929664,72401507,5,TRUE,Saham,3,QRIS,21,Fashion/Pakaian,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,3385087
+23369842,12199073,120081,49813301,5,TRUE,P2P Lending,3,Kartu Debit,43,Fashion/Pakaian,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,1756959
+12607268,6695327,336428,22004464,8,TRUE,Reksa Dana,4,Kartu Debit,29,Fashion/Pakaian,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,1237166
+15890110,7668809,1282271,20464203,7,TRUE,Emas/Logam Mulia,4,E-Wallet,36,Fashion/Pakaian,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,1335845
+16668207,8322359,724706,23341629,9,TRUE,Saham,3,E-Wallet,43,Fashion/Pakaian,Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,605893
+18683752,10773198,162656,66169700,4,TRUE,P2P Lending,3,Kartu Debit,29,Fashion/Pakaian,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,2179242
+11474091,5327665,1032510,34171773,9,TRUE,Emas/Logam Mulia,4,E-Wallet,39,Fashion/Pakaian,Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,1718706
+14153598,6088857,509096,40388407,8,TRUE,Reksa Dana,3,E-Wallet,43,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,2605184
+16386831,8695906,1528894,51561138,3,TRUE,Saham,3,Kartu Debit,31,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,570897
+14602071,7805252,290093,41198869,9,TRUE,Reksa Dana,3,E-Wallet,24,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,2893979
+15892903,8017087,1052711,40249399,7,TRUE,Emas/Logam Mulia,4,QRIS,32,Gadget/Elektronik,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,1311309
+15944295,9317044,331533,61447083,8,TRUE,P2P Lending,3,QRIS,39,Gadget/Elektronik,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,3025211
+10917035,4633931,131396,12829178,6,TRUE,Reksa Dana,4,Kartu Debit,35,Gadget/Elektronik,Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,1657523
+17379838,7993997,1238506,34646550,3,TRUE,P2P Lending,3,E-Wallet,20,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,Man In Finance,1830368
+24146584,11780410,783393,55946977,4,TRUE,Saham,4,QRIS,40,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,4034793
+18691690,7829319,790726,28604203,3,TRUE,Reksa Dana,3,E-Wallet,39,Gadget/Elektronik,Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,Man In Finance,627912
+11772869,6564616,907976,22499214,9,TRUE,Emas/Logam Mulia,4,E-Wallet,29,Gadget/Elektronik,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,1870589
+23883956,11811949,1605641,50408795,9,TRUE,P2P Lending,3,Kartu Debit,42,Gadget/Elektronik,Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,1991400
+14603562,7824285,1185749,15438299,3,TRUE,Reksa Dana,3,QRIS,39,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,2507378
+19270458,10686615,770301,42727595,8,TRUE,Reksa Dana,3,E-Wallet,42,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,SULTAN,2296255
+23075445,9283551,1096629,51326674,3,TRUE,Reksa Dana,4,E-Wallet,35,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,1629779
+19025464,7764375,905857,67916044,3,TRUE,Reksa Dana,4,QRIS,41,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Meningkatkan Tabungan Darurat,SULTAN,3147208
+16413027,7447770,1203629,35279814,4,TRUE,Saham,3,E-Wallet,33,Makanan/Minuman (Kuliner/Coffee Shop),Jiwa,"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,755011
+20298688,9530826,1295249,30996228,8,TRUE,Reksa Dana,4,E-Wallet,44,Makanan/Minuman (Kuliner/Coffee Shop),Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,SULTAN,3462085
+21812224,8956947,1766085,74725513,8,TRUE,Saham,3,QRIS,30,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,1569337
+23156689,11931344,805087,79813435,9,TRUE,Reksa Dana,4,QRIS,39,Makanan/Minuman (Kuliner/Coffee Shop),Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,SULTAN,3611352
+14638073,7399655,565810,57802275,8,TRUE,Saham,4,Kartu Debit,44,Makanan/Minuman (Kuliner/Coffee Shop),Kesehatan (BPJS/Swasta),"Ya, sangat rutin",Berinvestasi Jangka Panjang,SULTAN,2840591
+14691110,7603741,473172,33516047,9,TRUE,P2P Lending,3,E-Wallet,27,Makanan/Minuman (Kuliner/Coffee Shop),Jiwa,"Ya, sangat rutin",Meningkatkan Tabungan Darurat,SULTAN,698634
